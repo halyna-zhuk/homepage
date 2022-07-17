@@ -1,0 +1,51 @@
+.round {
+    width: 60%;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    padding: 0.6em;
+    margin-bottom: 1em;
+}
+.card {
+    text-align: center;
+    padding: 1em;
+  }
+.card:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+.card img {
+    border-radius: 50%;
+    width: 70%;
+    margin: auto;
+  }
+.text {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: 500;
+      color: rgb(3, 31, 83);
+      }
+.button {
+  margin: 0 10px;
+}
+#bold1:hover {
+  font-weight: 500;
+  color: #ffc107;
+}
+#bold2:hover {
+  font-weight: 500;
+  color: rgb(18, 74, 195);
+}
+.bold:hover {
+  font-weight: 500;
+}
+footer {
+  background-color: #ffc107;
+  height: 40px;
+}
+.d-flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.copyright {
+  font-size: 20px;
+  color: #000;
+}
